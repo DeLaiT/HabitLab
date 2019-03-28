@@ -1,0 +1,6 @@
+{
+  "commit_habit": "habit that will be updated after commit",
+  "api_key": "habitica api key",
+  "user_id": "habitica user id",
+  "gitlab_username": "your username on gitlab"
+}
